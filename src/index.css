@@ -1,0 +1,8 @@
+.todo-done {
+    color: green;
+    text-decoration: line-through;
+}
+
+.warning {
+    color: red;
+}
